@@ -1,2 +1,3 @@
 # hcicg--2024-cs-041-
-hello world
+HI 
+My name is Manahil Usmani 
